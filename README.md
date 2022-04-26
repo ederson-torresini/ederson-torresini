@@ -20,7 +20,7 @@ O segundo semestre de 2020 foi a primeira experiência do projeto da disciplina 
 
 No primeiro semestre de 2021 foi desenvolvido um projeto de comunicação de jogo Web multijogador (2 ou mais jogadores). Jogos desenvolvidos originalmente no Integrado foram usados, como ponto de partida, por algumas equipes de alunos. As melhorias foram feitas na comunicação: tanto as mensagens do jogo quanto a comunicação (áudio e/ou vídeo) foram feitas com WebRTC, usando para tal canais de dados e de mídia em tempo real.
 
-O [**projeto da disciplina**](https://github.com/boidacarapreta/smu20211/projects/1?fullscreen=true), bem como o calendário das [**8 entregas quinzenais**](https://github.com/boidacarapreta/smu20211/milestones?direction=asc&sort=due_date&state=open) estão disponíveis para o público em geral, bem como os [**vídeos das aulas**](https://www.youtube.com/watch?v=ps_IIf5Dl38&list=PLje9mMro7hT15gwJu3-O6iTl3nWhHRD7E).
+O [**projeto da disciplina**](https://github.com/boidacarapreta/smu20211/projects/1?fullscreen=true), bem como o calendário das [**8 entregas quinzenais**](https://github.com/boidacarapreta/smu20211/milestones?direction=asc&sort=due_date&state=closed) estão disponíveis para o público em geral, bem como os [**vídeos das aulas**](https://www.youtube.com/watch?v=ps_IIf5Dl38&list=PLje9mMro7hT15gwJu3-O6iTl3nWhHRD7E).
 
 ## Integrado ao Ensino Médio em Telecomunicações
 
