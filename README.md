@@ -43,3 +43,5 @@ No primeiro semestre de 2021 foi desenvolvido um jogo em modo texto através de 
 ### ARC+TIP: 2021.2
 
 Assim como no semestre [2020.2](#arc--tip-20202), no segundo semestre de 2021 foi [**desenvolvido (o conceito inicial de) um jogo Web para 2 jogadores simultâneos**](https://github.com/boidacarapreta/integrado20212/). Muito foi aproveitado em termos de conteúdo, em especial código-fonte e vídeos. Os [**vídeos das aulas**](https://www.youtube.com/watch?v=YhmVsBq2cnk&list=PLje9mMro7hT2YXZ-tYs55bQRftDPAWDKP) também estão disponíveis para o público em geral.
+
+Cabe destacar que todos os jogos desenvolvidos nos vários semestres estão [catalogados](https://github.com/boidacarapreta/catalogo-de-jogos#no-ifsc-c%C3%A2mpus-s%C3%A3o-jos%C3%A9) para facilitar a navegação.
