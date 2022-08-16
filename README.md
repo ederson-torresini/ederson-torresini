@@ -1,2 +1,3 @@
-# Page 1
+# Projetos
 
+Coletânea de projetos desenvolvidos no IFSC.
