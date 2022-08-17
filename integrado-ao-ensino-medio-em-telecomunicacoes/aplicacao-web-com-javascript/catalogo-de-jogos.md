@@ -1,6 +1,6 @@
-# Catálogo de Jogos
+# Catálogo de jogos
 
-Os jogos estão organizados por semestre:
+Jogos organizados por semestre:
 
 * 2019.2:
   * [IFSCape](https://github.com/ifscape/ifscape)
