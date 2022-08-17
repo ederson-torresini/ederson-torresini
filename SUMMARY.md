@@ -4,8 +4,8 @@
 
 ## Integrado ao Ensino Médio em Telecomunicações
 
-* [Jogos Web com Javascript](integrado-ao-ensino-medio-em-telecomunicacoes/aplicacao-web-com-javascript/README.md)
-  * [Catálogo de jogos](integrado-ao-ensino-medio-em-telecomunicacoes/aplicacao-web-com-javascript/catalogo-de-jogos.md)
+* [Jogos Web com Javascript](integrado-ao-ensino-medio-em-telecomunicacoes/aplicacao-web-com-javascript.md)
+* [Catálogo de jogos Web](integrado-ao-ensino-medio-em-telecomunicacoes/catalogo-de-jogos-web.md)
 * [Aplicações em rede com Python](integrado-ao-ensino-medio-em-telecomunicacoes/aplicacoes-em-rede-com-python.md)
 
 ## Engenharia de Telecomunicações
