@@ -1,4 +1,4 @@
-# Catálogo de jogos
+# Catálogo de jogos Web
 
 Jogos organizados por semestre:
 
