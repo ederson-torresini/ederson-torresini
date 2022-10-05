@@ -1,4 +1,8 @@
-# Catálogo de jogos
+---
+description: Código fonte dos jogos desenvolvidos pelos alunos.
+---
+
+# Catálogo de jogos Web
 
 Jogos organizados por semestre:
 
