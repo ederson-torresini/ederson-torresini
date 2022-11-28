@@ -26,5 +26,5 @@ O segundo semestre de 2021 (2021.2) repetiu aquela a mesma fórmula: foi [desenv
 
 ## ARC + TIP 2022.1
 
-Em [2022.1](https://github.com/boidacarapreta/adcipt20221), mantivemos o formato do projeto. Porém, desta vez as aplicações cliente e servidor foram hospedadas separadamente: GitHub Pages e Heroku, além de suporte a salas de partidas simultâneas. Isso aumentou a complexidade de implementação, e o jogo de demonstração - aquele mesmo de 2020.2, atualizado - pode ser jogado (e descarregado como PWA) em: [https://boidacarapreta.github.io/adcipt20221/](https://boidacarapreta.github.io/adcipt20221/).
+Em [2022.1](https://github.com/boidacarapreta/adcipt20221), mantivemos o formato do projeto. Porém, desta vez as aplicações cliente e servidor foram hospedadas separadamente: GitHub Pages e Heroku, além de suporte a salas de partidas simultâneas. Isso aumentou a complexidade de implementação desde 2020.2 (CORS, PWA etc.): com [versões para computador de mesa e móveis](https://github.com/boidacarapreta/adcipt20221/releases).
 
