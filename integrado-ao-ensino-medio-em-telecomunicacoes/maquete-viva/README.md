@@ -23,4 +23,6 @@ Também está disponível um [modelo simulado com a mesa de controle e dois bair
 
 ## ITL 2022.2
 
-No segundo semestre de 2022, houve algumas mudanças significativas no modelo de projeto anterior. A principal foi a troca de telefonia por mais tempo dedicado a programação com Micro:bit, o que gerou um [repositório com as atividades em sala](https://github.com/boidacarapreta/itl20222/tree/aulas). Também estão disponíveis [algumas fotos das aulas](https://www.instagram.com/maquetedetele/).
+No segundo semestre de 2022, houve algumas mudanças significativas no modelo de projeto anterior. A principal foi a troca de telefonia por mais tempo dedicado a programação com Micro:bit, o que gerou um [repositório com as atividades em sala](https://github.com/boidacarapreta/itl20222/tree/aulas). A maquete também contou com um ponto de acesso Wi-Fi provido pela Raspberry PI (aplicação [`hostapd`](http://w1.fi/hostapd/)), código esse também [publicado](https://github.com/boidacarapreta/itl20222).
+
+Também estão disponíveis [algumas fotos das aulas](https://www.instagram.com/maquetedetele/).
