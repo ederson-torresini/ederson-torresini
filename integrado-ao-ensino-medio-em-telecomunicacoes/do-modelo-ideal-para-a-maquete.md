@@ -6,11 +6,11 @@ description: Texto compartilhado entre docentes e alunos no início das aulas.
 
 ## Metodologia baseada em projeto
 
-Na disciplina de Introdução às Telecomunicações, será usada a metodologia baseada em projeto. Essa metodologia prevê um produto final, a ser desenvolvido ao longo de todo o semestre com entregas parciais regulares.
+Na disciplina de Introdução às Telecomunicações, é usada a metodologia baseada em projeto. Essa metodologia prevê um produto final, a ser desenvolvido ao longo de todo o semestre com entregas parciais regulares.
 
 ## O projeto
 
-O projeto escolhido pelo corpo docente é a maquete de uma cidade para o entendimento, sob um ponto de vista histórico, das telecomunicações, em especial os sistemas telefônicos e de redes de computadores. Cada maquete é uma placa de madeira de aproximadamente 1 x 1 m, e corresponde a um bairro da cidade do projeto, a ser mantida por uma subprefeitura. Os bairros, ao longo da disciplina, deverão estabelecer conectividade com os outros bairros, formando uma cidade única no final.
+O projeto escolhido pelo corpo docente é a maquete de uma cidade para o entendimento, sob um ponto de vista histórico, das telecomunicações, em especial os sistemas telefônicos e de redes de computadores. Cada maquete é uma placa de madeira de aproximadamente 1 x 1 m, e corresponde a um bairro da cidade do projeto, a ser mantida por uma subprefeitura. Os bairros, ao longo da disciplina, devem estabelecer conectividade com os outros bairros, formando uma cidade única no final.
 
 ### Fonte de recurso
 
@@ -43,7 +43,7 @@ Cada aluno pode assumir um ou mais papéis. A única exceção é o subprefeito:
 
 ## O progresso
 
-Serão usadas algumas ferramentas para acompanhar o progresso do projeto. No cerne, o _kanban_. Cada equipe terá uma cartolina com 3 colunas:
+São usadas algumas ferramentas para acompanhar o progresso do projeto. No cerne, o _kanban_. Cada equipe tem uma cartolina com 3 colunas:
 
 * **A Fazer**: todas as tarefas necessárias para a entrega do produto final.
 * **Fazendo**: as tarefas em desenvolvimento.
@@ -53,7 +53,7 @@ As tarefas, lembrando, são atômicas: devem ter início, meio e fim claro e com
 
 ### Temática mensal
 
-Para melhor compreensão do projeto como um todo, a cada mês será adotada uma temática, de forma que o projeto se desenvolva progressivamente. As entregas mensais serão sempre duas:&#x20;
+Para melhor compreensão do projeto como um todo, a cada mês é adotada uma temática, de forma que o projeto se desenvolva progressivamente. As entregas mensais são sempre duas:&#x20;
 
 1. **Relatório de progresso**: a ser entregue ao corpo docente para avaliação técnica
 2. **Produto audiovisual**: preferencialmente vídeo, a ser disponibilizado à comunidade acadêmica.
@@ -75,9 +75,9 @@ Experimentos:
 
 Para auxiliar no entendimento:
 
-* Aplicativos e jogos: TheoTown, SimCity, Cities: Skylines (pago), Minecraft, Go.
+* Aplicativos e jogos: TheoTown, SimCity, Cities: Skylines (pago), Minecraft (pago), Go.
 * Livros: Filmes: documentários sobre corrente alternada e contínua.
-* Músicas: Visitas técnicas: sites da Nextel.
+* Visitas técnicas: sites das operadoras de telefonia móvel.
 
 #### Mês 2, telefonia, analógico
 
@@ -88,7 +88,7 @@ Conceitos envolvidos:
 * Sinal.
 * Modulação.
 * Harmônicas.
-* Filtros (talvez).
+* Filtros.
 
 Experimentos:
 
@@ -98,9 +98,6 @@ Para auxiliar no entendimento:
 
 * Aplicativos e jogos: Laser Overload (1, 2).
 * Livros: livros de época.
-* Filmes: (pensar em algo sobre a história da telefonia).
-* Músicas:
-* Visitas técnicas: Oi (Estreito).
 
 #### Mês 3, redes de computadores, digital
 
@@ -122,10 +119,9 @@ Experimentos:
 Para auxiliar no entendimento:
 
 * Aplicativos e jogos: 2048, LightBot, Sudoku, Code.org.
-* Livros:
 * Filmes: série do Manual do Mundo sobre o computador, Matrix.
 * Músicas: disco Blade Runner (Vangelis).
-* Visitas técnicas: RNP, CIASC.
+* Visitas técnicas: prestadoras de serviço de hospedagem em nuvem.
 
 #### Mês 4, futuro
 
@@ -147,14 +143,12 @@ Experimentos:
 Para auxiliar no entendimento:
 
 * Aplicativos e jogos: IFTTT, TerraGenesis.
-* Livros:
-* Filmes: subgênero solarpunk.
-* Músicas:
-* Visitas técnicas: ACATE (SC-401).
+* Filmes: subgênero _solarpunk_.
+* Visitas técnicas: parques de empresas de tecnologia, como incubadoras e aceleradoras.
 
 ### Entregas parciais
 
-O projeto será desenvolvido em ciclos. A cada duas semanas, é feita uma reunião de planejamento, onde é acordada a entrega parcial: quais tarefas devem ser realizadas e o que deve estar pronto ao final desse período, quando há uma reunião de avaliação para validar as tarefas realizadas e entregues.
+O projeto é desenvolvido em ciclos. A cada duas semanas, é feita uma reunião de planejamento, onde é acordada a entrega parcial: quais tarefas devem ser realizadas e o que deve estar pronto ao final desse período, quando há uma reunião de avaliação para validar as tarefas realizadas e entregues.
 
 #### Entrega 1
 
