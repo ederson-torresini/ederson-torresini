@@ -6,7 +6,7 @@ description: >-
 
 # Maquete viva
 
-E se o curso de Ensino Médio Integrado em Telecomunicações pudesse ser apresentado em uma única disciplina? Esta é, justamente, a proposta de Introdução às Telecomunicações (ITL). Foi elaborado, então, um modelo de projeto a ser aplicado regularmente: uma maquete viva composta de sistemas elétrico, telefonia e redes de computadores - e pensar o futuro.&#x20;
+E se o curso de Ensino Médio Integrado em Telecomunicações pudesse ser apresentado em uma única disciplina? Esta é a proposta de Introdução às Telecomunicações (ITL). Foi elaborado, então, um modelo de projeto a ser aplicado regularmente: uma maquete viva composta de sistemas elétrico, telefonia e redes de computadores - e pensar o futuro das telecomunicações.&#x20;
 
 ## ITL 2022.1
 
@@ -23,6 +23,6 @@ Também está disponível um [modelo simulado com a mesa de controle e dois bair
 
 ## ITL 2022.2
 
-No segundo semestre de 2022, houve algumas mudanças significativas no modelo de projeto anterior. A principal foi a troca de telefonia por mais tempo dedicado a programação com Micro:bit, o que gerou um [repositório com as atividades em sala](https://github.com/boidacarapreta/itl20222/tree/aulas). A maquete também contou com um ponto de acesso Wi-Fi provido pela Raspberry PI (aplicação [`hostapd`](http://w1.fi/hostapd/)), código esse também [publicado](https://github.com/boidacarapreta/itl20222).
+No segundo semestre de 2022, houve algumas mudanças significativas no modelo de projeto anterior. A principal foi a troca de telefonia por mais tempo dedicado a programação com Micro:bit, o que gerou um [repositório com as atividades em sala](https://github.com/boidacarapreta/itl20222/commits/aulas). A maquete também contou com um ponto de acesso Wi-Fi provido pela Raspberry PI (com a aplicação [`hostapd`](http://w1.fi/hostapd/) como serviço), código esse também [publicado](https://github.com/boidacarapreta/itl20222).
 
 Também estão disponíveis [algumas fotos das aulas](https://www.instagram.com/maquetedetele/).
