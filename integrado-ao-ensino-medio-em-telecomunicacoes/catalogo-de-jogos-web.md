@@ -42,3 +42,16 @@ Jogos organizados por semestre:
   * [Princesas Perdidas](https://github.com/boidacarapreta/adcipt20221-four-landia-Princesas-perdidas)
   * [Soccer Simulator](https://github.com/boidacarapreta/adcipt20221-gabgilds-Soccer-Simulator)
   * [Vento-](https://github.com/boidacarapreta/adcipt20221-E-M-I-L-I-Vento-)
+  * [FortFight](https://github.com/boidacarapreta/adcipt20221-whatsapp22-Jogo-principal)
+* [2023.1](https://github.com/boidacarapreta/adcipt20231) (cópias, com referência, dos repositórios originais):
+  * [Escape Room](https://github.com/boidacarapreta/adcipt20231-DinamicCreative-EscapeRoom): jogo de fuga (_escape room_) com integração a dispositivos Arduino via MQTT.
+  * [Trivert](https://github.com/boidacarapreta/adcipt20231-Saga-games-Trivert): jogo de tabuleiro.
+  * [João & Maria: The order of warder](https://github.com/boidacarapreta/adcipt20231-ja-on1-Joao-Maria-The-order-of-warder): jogo de labirinto e quebra-cabeças.
+  * [Cattus](https://github.com/boidacarapreta/adcipt20231-silentiummm-Cattus): jogo de labirinto e quebra-cabeças.
+  * [Em busca das flores mágicas](https://github.com/boidacarapreta/adcipt20231-lotus-gamess-Em-busca-das-flores-magicas): jogo de labirinto e coleta de artefatos.
+  * [Oktopus](https://github.com/boidacarapreta/adcipt20231-leandrofars-oktopus): aqui, uma exceção. Não é um jogo, mas uma aplicação para gestão de ativos de rede usando o protocolo TR-369.
+  * [Folclore](https://github.com/boidacarapreta/adcipt20231-ifgamessc-Folclore): conceito e arte de jogo de plataforma.
+  * [God Between Us](https://github.com/boidacarapreta/adcipt20231-Lorum-Gaming-God-Between-Us): conceito e arte de jogo de plataforma e ação.
+  * [Maze of the past](https://github.com/boidacarapreta/adcipt20231-Hope-Games-Maze-of-the-past-): jogo de labirinto e coleta de artefatos.
+  * [Notte Eterna Z](https://github.com/boidacarapreta/adcipt20231-BIGUA-GAMES-Notte-Eterna-Z): jogo de plataforma e coleta de artefatos.
+  * [Don't Look](https://github.com/boidacarapreta/adcipt20231-Higorass-Don-t-look): conceito e arte de jogo de labirinto e quebra-cabeças.

@@ -10,7 +10,7 @@ description: >-
 
 Em 2019, a turma de Administração de Redes de Computadores (ARC) projetava um dispositivo de atuação ampla: um walkie-talkie modular para atender a vários esportes. Além da base comum, seriam desenvolvidos módulos como botões de emergência, comunicadores de rádio e outros para atividades como ciclismo, caminhada em trilhas e outros. Porém, apesar da boa ideia, era não apenas ambiciosa, mas onerosa. Além disso, faltava algo... Sabe quando faltam os brilhos nos olhos? Pois bem, na metade do projeto adotamos um caminho radical: abandonamos o projeto todo, todo mesmo, e decidimos programar jogos Web com Javascript. Escolhido o _framework_ [Phaser](https://phaser.io) (versão 3), partimos para a concepção do jogo, arte visual e sonora e, claro, codificação. Para ajudar, foi montado um plano de metas para auxiliar na gestão do projeto:
 
-![Plano de metas](../../.gitbook/assets/jogo-6080821-20192.drawio.png)
+![Plano de metas](../.gitbook/assets/jogo-6080821-20192.drawio.png)
 
 ## ARC 2020.2
 
@@ -28,3 +28,8 @@ O segundo semestre de 2021 (2021.2) repetiu aquela a mesma fórmula: foi [desenv
 
 Em [2022.1](https://github.com/boidacarapreta/adcipt20221), mantivemos o formato do projeto. Porém, desta vez as aplicações cliente e servidor foram hospedadas separadamente: GitHub Pages e Heroku, além de suporte a salas de partidas simultâneas. Isso aumentou a complexidade de implementação desde 2020.2 (CORS, PWA etc.): com [versões para computador de mesa e móveis](https://github.com/boidacarapreta/adcipt20221/releases).
 
+## ARC + TIP 2023.1
+
+Em [2023.1](https://github.com/boidacarapreta/adcipt20231), o formato do projeto foi mantido ([kanban](https://github.com/users/boidacarapreta/projects/4) e [milestones](https://github.com/users/boidacarapreta/projects/4/views/2)). Porém, houve uma grande restruturação de código Javascript (uso de conceitos de orientação a objetos, como herança), de forma a permitir várias funcionalidades, tais como: exemplo canais de áudio ao longo de todo o jogo, sincronização de mudança de fases etc. Por causa disso, foi melhorada a documentação do [jogo modelo](https://github.com/boidacarapreta/adcipt20231/blob/main/jogo-modelo.md), incluindo trocas de mensagens entre jogadores e fluxogramas das cenas. Com isso, foi possível desenvolver uma aplicação [exclusiva para dispositivos móveis](https://github.com/boidacarapreta/adcipt20231/releases/tag/v1.0).
+
+Também foi criada uma [aplicação da feira dos jogos](https://boidacarapreta.github.io/adcipt20231/), realizado no final do semestre.
