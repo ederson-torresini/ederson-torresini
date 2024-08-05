@@ -14,10 +14,10 @@ No primeiro semestre 2022 (2022.1) foi realizada a primeira edição do projeto.
 
 * Mesa de controle:
   * Raspberry Pi: [código em Python para aquisição da entrada de dados pelo Xbox Controller](https://github.com/boidacarapreta/itl20221).
-  * Micro:bit: [código em blocos para transmissão dos dados aos bairros](https://boidacarapreta.github.io/itl20221-mesa-de-controle/).
+  * Micro:bit: [código em blocos para transmissão dos dados aos bairros](https://ederson-torresini.github.io/itl20221-mesa-de-controle/).
 * Bairros:
-  * Micro:bit: [código para o bairro 5 a ser usado como modelo](https://boidacarapreta.github.io/itl20221-bairro-5/).
-  * Micro:bit: [teste de tensão entre Micro:bit e circuito do bairro](https://boidacarapreta.github.io/itl20221-teste-de-tensao/).
+  * Micro:bit: [código para o bairro 5 a ser usado como modelo](https://ederson-torresini.github.io/itl20221-bairro-5/).
+  * Micro:bit: [teste de tensão entre Micro:bit e circuito do bairro](https://ederson-torresini.github.io/itl20221-teste-de-tensao/).
 
 Também está disponível um [modelo simulado com a mesa de controle e dois bairros de portes diferentes](https://www.tinkercad.com/things/l8LGc3b3HMY?sharecode=zevMMf\_lV\_8XAn8LCEJzz\_A8g1mEmMNsX24cGnyaRso) (4 e 6 postes de luz) e [algumas fotos das aulas](https://www.instagram.com/maquete\_ifsc2022/).
 
@@ -31,4 +31,4 @@ Também estão disponíveis [algumas fotos das aulas](https://www.instagram.com/
 
 Nesta terceira edição do projeto, o escopo da maquete foi reduzido para dar mais ênfase às tecnologias. Ao invés de uma cidade, foi projetado um bairro com casas inteligentes. Na parte elétrica, houve mais foco dentro das casas que nas linhas de transmissão. Na telefonia, foi construído um sistema interno de interfonia entre as residências, com o uso de centrais PBX, com o uso de terminais (telefones) convencionais. Em redes de computadores, foi possível desenvolver em sala [vários pequenos projetos com Micro:bit](https://github.com/boidacarapreta/itl20231/commits/master). E, para o [projeto final](https://github.com/boidacarapreta/itl20231/blob/dev/projeto-da-disciplina.md), foi concebido um sistema baseado no protocolo [MQTT](https://mqtt.org) e [controle remoto](https://github.com/boidacarapreta/itl20231/tree/dev/ITL\_CONTROLE) usando um [aplicativo móvel para celular](https://github.com/boidacarapreta/itl20231/tree/dev/ITL\_Game), aos moldes de uma aplicação IoT regular.
 
-As mudanças se mostraram positivas, e o resultado foi acima do esperado: um bairro controlado por um [jogo para celular](https://boidacarapreta.github.io/itl20231/ITL\_Game/): o personagem caminha pelo bairro, entra em uma casa, acessa o computador da sala e pode controlar remotamente os circuitos elétricos para ativar ou desativá-los via MQTT.
+As mudanças se mostraram positivas, e o resultado foi acima do esperado: um bairro controlado por um [jogo para celular](https://ederson-torresini.github.io/itl20231/ITL\_Game/): o personagem caminha pelo bairro, entra em uma casa, acessa o computador da sala e pode controlar remotamente os circuitos elétricos para ativar ou desativá-los via MQTT.

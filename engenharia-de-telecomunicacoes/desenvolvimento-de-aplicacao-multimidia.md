@@ -6,7 +6,7 @@ description: Metodologia de ensino voltado ao desenvolvimento de uma aplicação
 
 ## SMU 2019.1
 
-No primeiro semestre de 2019 (2019.1) foi desenvolvido um projeto de telefonia IP para aplicação prática dos conceitos teóricos da disciplina. A [documentação](https://github.com/boidacarapreta/smu20191) - incluindo código para IaC (_Infraestructure-as-Code_) - e [relatórios](https://boidacarapreta.github.io/smu20191/) estão disponíveis no GitHub.
+No primeiro semestre de 2019 (2019.1) foi desenvolvido um projeto de telefonia IP para aplicação prática dos conceitos teóricos da disciplina. A [documentação](https://github.com/boidacarapreta/smu20191) - incluindo código para IaC (_Infraestructure-as-Code_) - e [relatórios](https://ederson-torresini.github.io/smu20191/) estão disponíveis no GitHub.
 
 ## SMU 2020.2
 
