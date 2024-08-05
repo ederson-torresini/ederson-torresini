@@ -24,6 +24,8 @@ Twine, aliás, que foi base também de um jogo baseado em roteiro não linear pa
 
 O segundo semestre de 2021 (2021.2) repetiu aquela a mesma fórmula: foi [desenvolvido (o conceito inicial de) um jogo Web para 2 jogadores com suporte a áudio em tempo real](https://github.com/boidacarapreta/integrado20212/). Muito foi aproveitado em termos de conteúdo, em especial código-fonte e vídeos. Os [vídeos das aulas](https://www.youtube.com/watch?v=YhmVsBq2cnk\&list=PLje9mMro7hT2YXZ-tYs55bQRftDPAWDKP) também ficaram disponíveis para o público em geral.
 
+A novidade foi uma [apostila interativa](https://ederson-torresini.github.io/integrado20212/cliente/).
+
 ## ARC + TIP 2022.1
 
 Em [2022.1](https://github.com/boidacarapreta/adcipt20221), mantivemos o formato do projeto. Porém, desta vez as aplicações cliente e servidor foram hospedadas separadamente: GitHub Pages e Heroku, além de suporte a salas de partidas simultâneas. Isso aumentou a complexidade de implementação desde 2020.2 (CORS, PWA etc.): com [versões para computador de mesa e móveis](https://github.com/boidacarapreta/adcipt20221/releases).
