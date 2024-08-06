@@ -55,3 +55,15 @@ Jogos organizados por semestre:
   * [Maze of the past](https://github.com/boidacarapreta/adcipt20231-Hope-Games-Maze-of-the-past-): jogo de labirinto e coleta de artefatos.
   * [Notte Eterna Z](https://github.com/boidacarapreta/adcipt20231-BIGUA-GAMES-Notte-Eterna-Z): jogo de plataforma e coleta de artefatos.
   * [Don't Look](https://github.com/boidacarapreta/adcipt20231-Higorass-Don-t-look): conceito e arte de jogo de labirinto e quebra-cabeças.
+* [2023.2](https://github.com/boidacarapreta/adcipt20232) (cópias, com referência, dos repositórios originais):
+  * [Labirintopia](https://github.com/ederson-torresini/adcipt20232-pijama-13-labirintopia)
+  * [Kanye Quest](https://github.com/ederson-torresini/adcipt20232-Manos-association-ManAss-Kanye-Quest)
+  * [Last Fate](https://github.com/ederson-torresini/adcipt20232-SyzygyTeam-LastFate)
+  * [A Busca pelo Troféu Dourado](https://github.com/ederson-torresini/adcipt20232-Hoff-Games-FutHoff_-_A_Busca_pelo_Trofeu_Dourado)
+  * [On the Run](https://github.com/ederson-torresini/adcipt20232-The-New-Hera-On-The-Run)
+  * [Damn! It's Monday](https://github.com/ederson-torresini/adcipt20232-Thouer-Engine-damnitsmonday)
+  * [Gatasma](https://github.com/ederson-torresini/adcipt20232-ARMBREAKERS-GAMES-Gatasma)
+  * [The Conundrum](https://github.com/ederson-torresini/adcipt20232-STB-Games-The-Conundrum)
+  * [Além das Montanhas](https://github.com/ederson-torresini/adcipt20232-Projeto-PATO-Alem-das-Montanhas)
+  * [Room Riddle](https://github.com/ederson-torresini/adcipt20232-Pixel-Quest-Games-Room-Riddle)
+  * [Segurem os Persas!](https://github.com/ederson-torresini/adcipt20232-Hairstyle-Company-SeguremOsPersas)

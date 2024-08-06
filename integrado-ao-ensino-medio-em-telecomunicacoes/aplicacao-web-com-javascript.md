@@ -38,7 +38,7 @@ Também foi criada uma [aplicação da feira dos jogos](https://ederson-torresin
 
 ## ARC + TIP 2023.2
 
-Em [2023.2](https://github.com/ederson-torresini/adcipt20232), mais uma edição do formato bem sucedido do semestre passado. Neste semestre, foi aprovado um projeto de ensino no IFSC para o desenvolvimento de *hardware* para a feira de jogos. A [feira de jogos](https://www.youtube.com/watch?v=oHZfTP4w-qE&list=PLje9mMro7hT2DWAHDZ6ckM6iHwYJB3kEH), assim, contou com a participação do [projeto de ensino em sua primeira versão](https://github.com/feira-de-jogos/docs):
+Em [2023.2](https://github.com/ederson-torresini/adcipt20232), mais uma edição do formato bem sucedido do semestre passado. Neste semestre, foi aprovado um [projeto de ensino](https://github.com/feira-de-jogos/docs) no IFSC para o desenvolvimento de *hardware* para a feira de jogos. A [feira de jogos](https://www.youtube.com/watch?v=oHZfTP4w-qE&list=PLje9mMro7hT2DWAHDZ6ckM6iHwYJB3kEH), assim, contou com a participação do projeto de ensino em sua primeira versão:
 
 - Os visitantes são convidados a criar uma conta no Banco Central da Feira de Jogos, online e com moeda 100% virtual.
 - Os visitantes da feira jogam os jogos dos alunos. Se conseguirem terminar os jogos, podem converter esse progresso em moedas virtuais.
