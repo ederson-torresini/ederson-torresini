@@ -10,7 +10,7 @@ description: >-
 
 Em 2019, a turma de Administração de Redes de Computadores (ARC) projetava um dispositivo de atuação ampla: um walkie-talkie modular para atender a vários esportes. Além da base comum, seriam desenvolvidos módulos como botões de emergência, comunicadores de rádio e outros para atividades como ciclismo, caminhada em trilhas e outros. Porém, apesar da boa ideia, era não apenas ambiciosa, mas onerosa. Além disso, faltava algo... Sabe quando faltam os brilhos nos olhos? Pois bem, na metade do projeto adotamos um caminho radical: abandonamos o projeto todo, todo mesmo, e decidimos programar jogos Web com Javascript. Escolhido o _framework_ [Phaser](https://phaser.io) (versão 3), partimos para a concepção do jogo, arte visual e sonora e, claro, codificação. Para ajudar, foi montado um plano de metas para auxiliar na gestão do projeto:
 
-![Plano de metas](../.gitbook/assets/jogo-6080821-20192.drawio.png)
+![Plano de metas](../assets/jogo-6080821-20192.drawio.png)
 
 ## ARC 2020.2
 
@@ -32,6 +32,16 @@ Em [2022.1](https://github.com/boidacarapreta/adcipt20221), mantivemos o formato
 
 ## ARC + TIP 2023.1
 
-Em [2023.1](https://github.com/boidacarapreta/adcipt20231), o formato do projeto foi mantido (kanban e *milestones*). Porém, houve uma grande restruturação de código Javascript (uso de conceitos de orientação a objetos, como herança), de forma a permitir várias funcionalidades, tais como: exemplo canais de áudio ao longo de todo o jogo, sincronização de mudança de fases etc. Por causa disso, foi melhorada a documentação do [jogo modelo](https://github.com/boidacarapreta/adcipt20231/blob/main/jogo-modelo.md), incluindo trocas de mensagens entre jogadores e fluxogramas das cenas. Com isso, foi possível desenvolver uma aplicação [exclusiva para dispositivos móveis](https://github.com/boidacarapreta/adcipt20231/releases/tag/v1.0).
+Em [2023.1](https://github.com/boidacarapreta/adcipt20231), o formato do projeto foi mantido (kanban e *milestones*). Porém, houve uma grande restruturação de código Javascript (uso de conceitos de orientação a objetos, como herança), de forma a permitir várias funcionalidades, tais como: canais de áudio ao longo de todo o jogo, sincronização de mudança de fases etc. Por causa disso, foi melhorada a documentação do [jogo modelo](https://github.com/boidacarapreta/adcipt20231/blob/main/jogo-modelo.md), incluindo trocas de mensagens entre jogadores e fluxogramas das cenas. Com isso, foi possível desenvolver uma aplicação [exclusiva para dispositivos móveis](https://github.com/boidacarapreta/adcipt20231/releases/tag/v1.0).
 
-Também foi criada uma [aplicação da feira dos jogos](https://ederson-torresini.github.io/adcipt20231/), realizado no final do semestre.
+Também foi criada uma [aplicação da feira dos jogos](https://ederson-torresini.github.io/adcipt20231/), realizada no final do semestre.
+
+## ARC + TIP 2023.2
+
+Em [2023.2](https://github.com/ederson-torresini/adcipt20232), mais uma edição do formato bem sucedido do semestre passado. Neste semestre, foi aprovado um projeto de ensino no IFSC para o desenvolvimento de *hardware* para a feira de jogos. A [feira de jogos](https://www.youtube.com/watch?v=oHZfTP4w-qE&list=PLje9mMro7hT2DWAHDZ6ckM6iHwYJB3kEH), assim, contou com a participação do [projeto de ensino em sua primeira versão](https://github.com/feira-de-jogos/docs):
+
+- Os visitantes são convidados a criar uma conta no Banco Central da Feira de Jogos, online e com moeda 100% virtual.
+- Os visitantes da feira jogam os jogos dos alunos. Se conseguirem terminar os jogos, podem converter esse progresso em moedas virtuais.
+- Com o crédito no Banco Central, eles podem escolher entre:
+  - Comprar comida na máquina de vendas (*vending machine*).
+  - Alugar tempo na *lanhouse*. Os consoles disponíveis foram: Odyssey, Atari e SNES.

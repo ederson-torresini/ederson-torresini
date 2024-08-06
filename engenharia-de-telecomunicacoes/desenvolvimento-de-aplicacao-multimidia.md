@@ -15,3 +15,7 @@ O segundo semestre de 2020 (2020.2) foi a primeira experiência do projeto da di
 ## SMU 2021.1
 
 Assim como 2020.2, no primeiro semestre de 2021 (2021.1) foi desenvolvido um projeto de comunicação de jogo Web multijogador (2 ou mais jogadores). Dessa vez, os jogos desenvolvidos pelo [Integrado](../integrado-ao-ensino-medio-em-telecomunicacoes/aplicacao-web-com-javascript.md) foram usados, como ponto de partida, por algumas equipes de alunos. As melhorias foram feitas na comunicação: tanto as mensagens do jogo quanto a comunicação (áudio e/ou vídeo) foram feitas com WebRTC, usando para tal canais de dados e de mídia em tempo real. O [projeto da disciplina](https://github.com/boidacarapreta/smu20211/projects/1?fullscreen=true), bem como o calendário das [8 entregas quinzenais](https://github.com/boidacarapreta/smu20211/milestones?direction=asc\&sort=due\_date\&state=closed) e os [vídeos das aulas](https://www.youtube.com/watch?v=ps\_IIf5Dl38\&list=PLje9mMro7hT15gwJu3-O6iTl3nWhHRD7E) estão disponíveis para o público em geral.
+
+## SMU 2023.2
+
+Neste semestre, a proposta foi um RPG online para *N* jogadores, com o uso de SFU. Adotou-se um modelo mais colaborativo entre professor e alunos: todos faziam parte de uma mesma [organização](https://github.com/smu20232). O [projeto](https://github.com/orgs/smu20232/projects/1) com [entregas quinzenais](https://github.com/orgs/smu20232/projects/1/views/2) se manteve.
