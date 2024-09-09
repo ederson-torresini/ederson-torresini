@@ -67,3 +67,10 @@ Jogos organizados por semestre:
   * [Além das Montanhas](https://github.com/ederson-torresini/adcipt20232-Projeto-PATO-Alem-das-Montanhas)
   * [Room Riddle](https://github.com/ederson-torresini/adcipt20232-Pixel-Quest-Games-Room-Riddle)
   * [Segurem os Persas!](https://github.com/ederson-torresini/adcipt20232-Hairstyle-Company-SeguremOsPersas)
+* [2024.1](https://github.com/ederson-torresini/adcieqipt20241) (cópias, com referência, dos repositórios originais):
+  * [Eldorya: Guardiões da Floresta Encantada](https://github.com/ederson-torresini/adcieqipt20241-Karolzinha-e-Loulou-avadakedavra): estilo RPG, com floresta, cristais e inimigos naturais.
+  * [Hunters of Ancients Beasts](https://github.com/ederson-torresini/adcieqipt20241-huntersofancientbeasts-jogo): estilo plataforma, com escudeiro e espadachim enfrentando bestas ao longo da jornada.
+  * [Meowze](https://github.com/ederson-torresini/adcieqipt20241-vitorhlmm-Jogo): Pacman com gatos.
+  * [Missão Espacial](https://github.com/ederson-torresini/adcieqipt20241-Thuthu-e-Aninha-jogo): estilo 2D, onde os astronautas devem coletar cartões e fugirem dos alienígenas.
+  * [Salsiheero](https://github.com/ederson-torresini/adcieqipt20241-vimdoalegrete-jogo): estilo 2D, onde os cachorros salsicha devem coletar ingredientes para fazer o lanche perfeito.
+  * [Tower of Challenges](https://github.com/ederson-torresini/adcieqipt20241-nlentertainment-jogo): estilo plataforma, cujo objetivo é chegar primeiro à coroa no topo da torre.
