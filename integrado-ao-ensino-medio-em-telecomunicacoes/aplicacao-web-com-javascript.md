@@ -39,3 +39,9 @@ Em [2023.2](https://github.com/ederson-torresini/adcipt20232), mais uma edição
 - Com o crédito no Banco Central, eles podem escolher entre:
   - Comprar comida na máquina de vendas (*vending machine*).
   - Alugar tempo na *lanhouse*. Os consoles disponíveis foram: Odyssey, Atari e SNES.
+
+### ARC + IEQ + TIP 2024.1
+
+Em [2024.1](https://github.com/ederson-torresini/adcieqipt20241), houve melhorias no projeto da Feira de Jogos. Primeiro, foi refeita a arquitetura da solução ([versão 2](https://github.com/feira-de-jogos/docs/tree/main/v2)): especificação das APIs, fluxogramas, entre outros. Todas as operações podem, agora, ser realizadas pelo usuário a partir do seu próprio aplicativo de celular, o que inclui transferência para outros jogadores e compra de produtos nas máquinas: bens na máquina de vendas e moedas nos fliperamas.
+
+A Feira, dado o seu porte, conta agora com [organização própria no GitHub](https://github.com/feira-de-jogos) - e [projetos semestrais](https://github.com/orgs/feira-de-jogos/projects/2/views/2).
