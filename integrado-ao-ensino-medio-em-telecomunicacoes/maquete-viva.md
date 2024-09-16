@@ -1,9 +1,3 @@
----
-description: >-
-  Projeto da disciplina Introdução às Telecomunicações do Curso Técnico de
-  Telecomunicações Integrado ao Ensino Médio.
----
-
 # Maquete viva
 
 E se o curso de Ensino Médio Integrado em Telecomunicações pudesse ser apresentado em uma única disciplina? Esta é a proposta de Introdução às Telecomunicações (ITL). Foi elaborado, então, um modelo de projeto a ser aplicado regularmente: uma maquete viva composta de sistemas elétrico, telefonia e redes de computadores - e pensar o futuro das telecomunicações.&#x20;

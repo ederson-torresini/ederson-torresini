@@ -1,9 +1,3 @@
----
-description: >-
-  Experiências de ensino de programação voltado para a Web nas disciplinas
-  finais do Curso Técnico de Telecomunicações Integrado ao Ensino Médio.
----
-
 # Jogos Web com Javascript
 
 ## ARC 2019.2

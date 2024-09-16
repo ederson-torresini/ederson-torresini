@@ -1,7 +1,3 @@
----
-description: Metodologia de ensino voltado a análise de uma aplicação multimídia.
----
-
 # Análise de aplicação multimídia
 
 ## SMU 2020.1

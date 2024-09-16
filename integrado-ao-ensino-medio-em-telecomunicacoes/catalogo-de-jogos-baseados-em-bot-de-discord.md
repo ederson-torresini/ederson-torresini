@@ -1,7 +1,3 @@
----
-description: Código fonte dos jogos desenvolvidos pelos alunos.
----
-
 # Catálogo de jogos baseados em bot de Discord
 
 Jogos organizados por semestre:

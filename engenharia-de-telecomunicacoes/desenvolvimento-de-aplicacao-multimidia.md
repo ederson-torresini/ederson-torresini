@@ -1,7 +1,3 @@
----
-description: Metodologia de ensino voltado ao desenvolvimento de uma aplicação multimídia.
----
-
 # Desenvolvimento de aplicação multimídia
 
 ## SMU 2019.1

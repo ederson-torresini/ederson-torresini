@@ -1,7 +1,3 @@
----
-description: Texto compartilhado entre docentes e alunos no início das aulas.
----
-
 # Do modelo ideal para a maquete
 
 ## Metodologia baseada em projeto

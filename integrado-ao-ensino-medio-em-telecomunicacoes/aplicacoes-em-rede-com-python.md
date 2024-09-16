@@ -1,9 +1,3 @@
----
-description: >-
-  Experiências de ensino de programação da linguagem Python nas disciplinas
-  finais do Curso Técnico de Telecomunicações Integrado ao Ensino Médio.
----
-
 # Aplicações em rede com Python
 
 ## ARC 2020.1
