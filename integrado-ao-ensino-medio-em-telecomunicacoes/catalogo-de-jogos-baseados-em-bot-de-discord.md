@@ -2,7 +2,7 @@
 
 Jogos organizados por semestre.
 
-## [2022.2](https://github.com/boidacarapreta/adcipt20222) 
+## [2022.2](https://github.com/boidacarapreta/adcipt20222)
 
 * [aifbot](https://github.com/boidacarapreta/adcipt20222-aifbot-discord-chatbot)
 * [Ancião](https://github.com/boidacarapreta/adcipt20222-enzo-davi-my-game) (experimentos [1](https://ederson-torresini.github.io/adcipt20222-enzo-davi-my-game/Loccccc.html) e [2](https://ederson-torresini.github.io/adcipt20222-enzo-davi-my-game/Enzo.png.html) com Twine)

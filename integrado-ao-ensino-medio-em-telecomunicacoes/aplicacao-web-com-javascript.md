@@ -6,9 +6,13 @@ Em 2019, a turma de Administração de Redes de Computadores (ARC) projetava um 
 
 ![Plano de metas](../assets/jogo-6080821-20192.drawio.png)
 
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20192) está disponível.
+
 ## ARC 2020.2
 
 No ano seguinte, no segundo semestre de 2020 ([2020.2](https://github.com/boidacarapreta/arc20202/)) o projeto ganhou em forma e conteúdo. Na forma, foi definido um calendário de [9 entregas quinzenais](https://github.com/boidacarapreta/arc20202/milestones?direction=asc\&sort=due\_date\&state=closed) - com listas de vídeos de aula - e [quadro de tarefas](https://github.com/boidacarapreta/arc20202/projects/1?fullscreen=true). No conteúdo, incorporou conceitos de TIP (graças às metodologias ágeis adotadas, como Scrum e Kanban, foi possível modificar o projeto original durante a sua execução), ampliando o escopo do projeto original: o suporte a voz, em tempo real, entre os 2 jogadores. Além disso, para demonstrar o conceito de aplicação cliente-servidor, foi criado um [código variante](https://github.com/boidacarapreta/arc20202/tree/tip) que integra, inclusive, um (outro conceito inicial de) jogo feito com a ferramenta [Twine](https://twinery.org/). Assim, embora ambos os jogos não foram concluídos, apresentam as funcionalidades mínimas de jogo multijogador com audioconferência, seja um jogo 2D, ao estilo RPG, como baseado em roteiro não linear ([_choose your story_](https://chooseyourstory.com/)).
+
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20202) está disponível.
 
 ## CAB 2020.2
 
@@ -20,15 +24,21 @@ O segundo semestre de 2021 (2021.2) repetiu aquela a mesma fórmula: foi [desenv
 
 A novidade foi uma [apostila interativa](https://ederson-torresini.github.io/integrado20212/cliente/).
 
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20212) está disponível.
+
 ## ARC + TIP 2022.1
 
 Em [2022.1](https://github.com/boidacarapreta/adcipt20221), mantivemos o formato do projeto. Porém, desta vez as aplicações cliente e servidor foram hospedadas separadamente: GitHub Pages e Heroku, além de suporte a salas de partidas simultâneas. Isso aumentou a complexidade de implementação desde 2020.2 (CORS, PWA etc.): com [versões para computador de mesa e móveis](https://github.com/boidacarapreta/adcipt20221/releases).
+
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20221) está disponível.
 
 ## ARC + TIP 2023.1
 
 Em [2023.1](https://github.com/boidacarapreta/adcipt20231), o formato do projeto foi mantido (kanban e *milestones*). Porém, houve uma grande restruturação de código Javascript (uso de conceitos de orientação a objetos, como herança), de forma a permitir várias funcionalidades, tais como: canais de áudio ao longo de todo o jogo, sincronização de mudança de fases etc. Por causa disso, foi melhorada a documentação do [jogo modelo](https://github.com/boidacarapreta/adcipt20231/blob/main/jogo-modelo.md), incluindo trocas de mensagens entre jogadores e fluxogramas das cenas. Com isso, foi possível desenvolver uma aplicação [exclusiva para dispositivos móveis](https://github.com/boidacarapreta/adcipt20231/releases/tag/v1.0).
 
 Também foi criada uma [aplicação da feira dos jogos](https://ederson-torresini.github.io/adcipt20231/), realizada no final do semestre.
+
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20231) está disponível.
 
 ## ARC + TIP 2023.2
 
@@ -40,8 +50,12 @@ Em [2023.2](https://github.com/ederson-torresini/adcipt20232), mais uma edição
   - Comprar comida na máquina de vendas (*vending machine*).
   - Alugar tempo na *lanhouse*. Os consoles disponíveis foram: Odyssey, Atari e SNES.
 
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20232) está disponível.
+
 ### ARC + IEQ + TIP 2024.1
 
 Em [2024.1](https://github.com/ederson-torresini/adcieqipt20241), houve melhorias no projeto da Feira de Jogos. Primeiro, foi refeita a arquitetura da solução ([versão 2](https://github.com/feira-de-jogos/docs/tree/main/v2)): especificação das APIs, fluxogramas, entre outros. Todas as operações podem, agora, ser realizadas pelo usuário a partir do seu próprio aplicativo de celular, o que inclui transferência para outros jogadores e compra de produtos nas máquinas: bens na máquina de vendas e moedas nos fliperamas.
 
 A Feira, dado o seu porte, conta agora com [organização própria no GitHub](https://github.com/feira-de-jogos) - e [projetos semestrais](https://github.com/orgs/feira-de-jogos/projects/2/views/2).
+
+O [catálogo deste semestre](catalogo-de-jogos-web.md#20241) está disponível.
