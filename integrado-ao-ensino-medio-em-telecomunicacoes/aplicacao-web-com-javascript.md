@@ -2,9 +2,7 @@
 
 ## ARC 2019.2
 
-Em 2019, a turma de Administração de Redes de Computadores (ARC) projetava um dispositivo de atuação ampla: um walkie-talkie modular para atender a vários esportes. Além da base comum, seriam desenvolvidos módulos como botões de emergência, comunicadores de rádio e outros para atividades como ciclismo, caminhada em trilhas e outros. Porém, apesar da boa ideia, era não apenas ambiciosa, mas onerosa. Além disso, faltava algo... Sabe quando faltam os brilhos nos olhos? Pois bem, na metade do projeto adotamos um caminho radical: abandonamos o projeto todo, todo mesmo, e decidimos programar jogos Web com Javascript. Escolhido o _framework_ [Phaser](https://phaser.io) (versão 3), partimos para a concepção do jogo, arte visual e sonora e, claro, codificação. Para ajudar, foi montado um plano de metas para auxiliar na gestão do projeto:
-
-![Plano de metas](../assets/jogo-6080821-20192.drawio.png)
+Em 2019, a turma de Administração de Redes de Computadores (ARC) projetava um dispositivo de atuação ampla: um walkie-talkie modular para atender a vários esportes. Além da base comum, seriam desenvolvidos módulos como botões de emergência, comunicadores de rádio e outros para atividades como ciclismo, caminhada em trilhas e outros. Porém, apesar da boa ideia, era não apenas ambiciosa, mas onerosa. Além disso, faltava algo... Sabe quando faltam os brilhos nos olhos? Pois bem, na metade do projeto adotamos um caminho radical: abandonamos o projeto todo, todo mesmo, e decidimos programar jogos Web com Javascript. Escolhido o _framework_ [Phaser](https://phaser.io) (versão 3), partimos para a concepção do jogo, arte visual e sonora e, claro, codificação. Para ajudar, foi montado um [fluxograma do plano de metas](../assets/jogo-6080821-20192.drawio.png) para auxiliar na gestão do projeto.
 
 O [catálogo deste semestre](catalogo-de-jogos-web.md#20192) está disponível.
 
